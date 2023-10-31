@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Hyejeong Choi!
-- 👀 I’m interested in Machine Learning for Healthcare Wearable Devices.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate with hospitals, startups, and universities majoring in Mechanical Engineering, Biomedical Engineering, etc.
-- 📫 How to reach me is to email me at hyejeongchoi22@gmail.com.
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-<!---
-hchoi2/hchoi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+
+## Demo
+
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+
+The main page would look like this:
+
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+
+The post page would look like this:
+
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
+
+## Installation:
+
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+## License
+
+GNU General Public License v3.0
