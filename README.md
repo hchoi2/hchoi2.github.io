@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hyejeong Choi.
+- 👋 Hi, I’m Hyejeong Choi!
 - 👀 I’m interested in Machine Learning for Healthcare Wearable Devices.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate with hospitals, startups, and universities majoring in Mechanical Engineering, Biomedical Engineering, etc.
