@@ -20,9 +20,7 @@ tags: PhD UBC ECE application study_abroad
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi, folks! It is my pleasure to have you visit my website. Here are the  materials that I presented during the Yonsei Mentoring Session on October 11th. Thank you for having me. If you have future questions with regard to my PhD application, feel free to contact me via my email address(hyejeongchoi22@gmail.com). Have a great day! 🙃
 
 ## Section 1 - Introduction
 ![Alt text](/untitled/Slide1.png)
