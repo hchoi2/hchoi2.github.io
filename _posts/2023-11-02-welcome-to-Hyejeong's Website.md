@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Welcome to Hyejeong's Website!
+subtitle: Be successfully prepare for your PhD application in abroad
+author: Hyejeong Choi
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: PhD UBC ECE application study_abroad 
 sidebar: []
 ---
 
@@ -24,51 +24,72 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-## section 1
+## Section 1 - Introduction
 
-Jekyll also offers powerful support for code snippets:
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Section 2 - Why did I choose to study abroad?
 
-## section 2
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Section 3 - Preparing for PhD Application step by step
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+### Step 1
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+### Step 2
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+### Step 3
+![Alt text](image-18.png)
+![Alt text](image-19.png)
+![Alt text](image-20.png)
+### Step 3 \frac{1}{2}
+![Alt text](image-21.png)
+![Alt text](image-22.png)
+### Step 4
+![Alt text](image-23.png)
+![Alt text](image-24.png)
+### Step 5
+![Alt text](image-25.png)
+![Alt text](image-26.png)
+### Step 6
+![Alt text](image-27.png)
+![Alt text](image-28.png)
+![Alt text](image-29.png)
+![Alt text](image-30.png)
+![Alt text](image-31.png)
+![Alt text](image-32.png)
+![Alt text](image-33.png)
+![Alt text](image-34.png)
+### Step 7
+![Alt text](image-35.png)
+![Alt text](image-36.png)
+### Step 8
+![Alt text](image-37.png)
+![Alt text](image-38.png)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Section 4 - After PhD Application 
+### Step 8 \frac{1}{2}
+![Alt text](image-39.png)
+![Alt text](image-40.png)
 
-$ a \* b = c ^ b $
+### Step 9
+![Alt text](image-41.png)
+![Alt text](image-42.png)
 
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+### Step 10
+![Alt text](image-43.png)
+![Alt text](image-44.png)
+![Alt text](image-45.png)
