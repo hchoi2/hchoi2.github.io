@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Hyejeong's Website!
 subtitle: Be successfully prepare for your PhD application in abroad
 author: Hyejeong Choi
-categories: jekyll
+categories: Welcome to Hyejeong's Website
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
