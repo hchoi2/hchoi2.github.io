@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Hyejeong's Website!
 subtitle: Be successfully prepare for your PhD application for study abroad
 author: Hyejeong Choi
-categories: Welcome to Hyejeong's Website
+categories: Welcome_to_Hyejeong's_Website
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -25,71 +25,81 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 ## Section 1 - Introduction
+![Alt text](/untitled/Slide1.png)
+![Alt text](/untitled/Slide2.png)
+![Alt text](/untitled/Slide3.png)
+![Alt text](/untitled/Slide4.png)
+![Alt text](/untitled/Slide5.png)
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
 
 ## Section 2 - Why did I choose to study abroad?
+![Alt text](/untitled/Slide6.png)
+![Alt text](/untitled/Slide7.png)
+![Alt text](/untitled/Slide8.png)
+![Alt text](/untitled/Slide9.png)
+![Alt text](/untitled/Slide10.png)
 
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-7.png)
-![Alt text](image-8.png)
-![Alt text](image-9.png)
-![Alt text](image-10.png)
 
 ## Section 3 - Preparing for PhD Application step by step
-![Alt text](image-11.png)
-![Alt text](image-12.png)
-![Alt text](image-13.png)
+![Alt text](/untitled/Slide11.png)
+![Alt text](/untitled/Slide12.png)
+![Alt text](/untitled/Slide13.png)
+
 ### Step 1
-![Alt text](image-14.png)
-![Alt text](image-15.png)
+![Alt text](/untitled/Slide14.png)
+![Alt text](/untitled/Slide15.png)
+
 ### Step 2
-![Alt text](image-16.png)
-![Alt text](image-17.png)
+![Alt text](/untitled/Slide16.png)
+![Alt text](/untitled/Slide17.png)
+
 ### Step 3
-![Alt text](image-18.png)
-![Alt text](image-19.png)
-![Alt text](image-20.png)
+![Alt text](/untitled/Slide18.png)
+![Alt text](/untitled/Slide19.png)
+![Alt text](/untitled/Slide20.png)
+
 ### Step 3 1/2
-![Alt text](image-21.png)
-![Alt text](image-22.png)
+![Alt text](/untitled/Slide21.png)
+![Alt text](/untitled/Slide22.png)
+
 ### Step 4
-![Alt text](image-23.png)
-![Alt text](image-24.png)
+![Alt text](/untitled/Slide23.png)
+![Alt text](/untitled/Slide24.png)
+
 ### Step 5
-![Alt text](image-25.png)
-![Alt text](image-26.png)
+![Alt text](/untitled/Slide25.png)
+![Alt text](/untitled/Slide26.png)
+
 ### Step 6
-![Alt text](image-27.png)
-![Alt text](image-28.png)
-![Alt text](image-29.png)
-![Alt text](image-30.png)
-![Alt text](image-31.png)
-![Alt text](image-32.png)
-![Alt text](image-33.png)
-![Alt text](image-34.png)
+![Alt text](/untitled/Slide27.png)
+![Alt text](/untitled/Slide28.png)
+![Alt text](/untitled/Slide29.png)
+![Alt text](/untitled/Slide30.png)
+![Alt text](/untitled/Slide31.png)
+![Alt text](/untitled/Slide32.png)
+![Alt text](/untitled/Slide33.png)
+![Alt text](/untitled/Slide34.png)
+
 ### Step 7
-![Alt text](image-35.png)
-![Alt text](image-36.png)
+![Alt text](/untitled/Slide35.png)
+![Alt text](/untitled/Slide36.png)
+
 ### Step 8
-![Alt text](image-37.png)
-![Alt text](image-38.png)
+![Alt text](/untitled/Slide37.png)
+![Alt text](/untitled/Slide38.png)
+
 
 ## Section 4 - After PhD Application 
 ### Step 8 1/2
-![Alt text](image-39.png)
-![Alt text](image-40.png)
+![Alt text](/untitled/Slide39.png)
+![Alt text](/untitled/Slide41.png)
 
 ### Step 9
-![Alt text](image-41.png)
-![Alt text](image-42.png)
+![Alt text](/untitled/Slide41.png)
+![Alt text](/untitled/Slide42.png)
+
 
 ### Step 10
-![Alt text](image-43.png)
-![Alt text](image-44.png)
-![Alt text](image-45.png)
+![Alt text](/untitled/Slide43.png)
+![Alt text](/untitled/Slide44.png)
+![Alt text](/untitled/Slide45.png)
