@@ -434,6 +434,7 @@ html[data-scroll-status=down] .framework .sidebar {
 .page-content {
   /* <-- Keep footer on the bottom */
   -ms-flex: none; /* <-- Fix IE footer issue */
+  flex: none; /* <-- Fix IE footer issue */
   padding: 60px 0;
   padding-top: 72px;
 }
