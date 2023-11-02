@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Hyejeong's Website!
-subtitle: Be successfully prepare for your PhD application in abroad
+subtitle: Be successfully prepare for your PhD application for study abroad
 author: Hyejeong Choi
 categories: Welcome to Hyejeong's Website
 banner:
@@ -55,7 +55,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 ![Alt text](image-18.png)
 ![Alt text](image-19.png)
 ![Alt text](image-20.png)
-### Step 3 \frac{1}{2}
+### Step 3 1/2
 ![Alt text](image-21.png)
 ![Alt text](image-22.png)
 ### Step 4
@@ -81,7 +81,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 ![Alt text](image-38.png)
 
 ## Section 4 - After PhD Application 
-### Step 8 \frac{1}{2}
+### Step 8 1/2
 ![Alt text](image-39.png)
 ![Alt text](image-40.png)
 
