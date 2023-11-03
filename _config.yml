@@ -65,7 +65,7 @@ yat:
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
 
-Google analytics - GA4
+#Google analytics - GA4
 google_analytics: [UA-291695102-1]
 enableDNT: "false"
 
