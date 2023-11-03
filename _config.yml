@@ -40,14 +40,14 @@ author: Hyejeong Choi
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
+copyright: "Copyright (c) (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for visiting my Website. 
   I hope you enjoy my Webstie and get a myriad of informative information via Website, YouTube, and Presentation. 
   Feel free to ask me if you have a question regarding preparing PhD application for study abroad.
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "www.linkedin.com/in/hyejeong2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
