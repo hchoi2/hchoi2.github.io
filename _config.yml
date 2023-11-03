@@ -70,7 +70,7 @@ google_analytics: [UA-291695102-1]
 enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-sitemap: true
+sitemap: false
 
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
