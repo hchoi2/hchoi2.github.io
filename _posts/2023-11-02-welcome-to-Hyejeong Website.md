@@ -20,7 +20,7 @@ tags: PhD UBC ECE application study_abroad
 sidebar: []
 ---
 
-Hi, folks! It is my pleasure to have you visit my website. Here are the  materials that I presented during the Yonsei Mentoring Session on October 11th. Thank you for having me. If you have future questions with regard to my PhD application, feel free to contact me via my email address(hyejeongchoi22@gmail.com). Have a great day! 🙃
+Hi, folks! It is my pleasure to have you visit my website. Here are the  materials that I presented during the Yonsei Mentoring Session on October 11th. Thank you for having me. If you have further questions with regard to my PhD application, feel free to contact me via my email(hyejeongchoi22@gmail.com). Have a great day! 🙃
 
 ## Section 1 - Introduction
 ![Alt text](/untitled/Slide1.png)
