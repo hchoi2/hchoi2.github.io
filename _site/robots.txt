@@ -1,3 +1,5 @@
 
-Sitemap: https://hchoi2.github.io/hchoi2.github.io/sitemap.xml
+User-agent: *
+Disallow:
+Sitemap: https://hchoi2.github.io/sitemap.xml
 
