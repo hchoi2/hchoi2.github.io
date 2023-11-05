@@ -208,7 +208,7 @@ sitemap: false
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'Hyejeong_Choi'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: 'hchoi2'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # Build settings
 # highlighter: none
