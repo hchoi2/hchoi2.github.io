@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Hyejeong Website!
-subtitle: Be successfully prepare for your PhD application for study abroad
+title: The way to successfully prepare the Ph.D. application for the US&Canada&Europe
+subtitle: Step by Step Guide
 author: Hyejeong Choi
-categories: Welcome_to_Hyejeong_Website
+categories: Study_abroad
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
