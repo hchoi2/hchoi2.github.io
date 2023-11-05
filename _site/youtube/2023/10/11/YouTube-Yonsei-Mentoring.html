@@ -1150,5 +1150,10 @@ function googleTranslateElementInit() {
   </div>
 </footer>
 <script id="dsq-count-scr" src="//hchoi2.disqus.com/count.js" async></script>
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
 </body>
 </html>
