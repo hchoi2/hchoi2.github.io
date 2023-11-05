@@ -206,6 +206,10 @@ sitemap: false
 #   theme: "github-light"
 #   follow_site_theme: true
 
+disqus:
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'Hyejeong_Choi'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+
 # Build settings
 # highlighter: none
 markdown: kramdown
