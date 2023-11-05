@@ -4,6 +4,7 @@ title: YouTube_Yonsei Mentoring
 subtitle: How to successfully apply for PhD program to study abroad; Step by Step
 categories: YouTube
 tags: [video]
+comments: true
 ---
 
 ## How to successfully apply for PhD program to study abroad: Step by Step
