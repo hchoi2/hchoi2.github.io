@@ -102,3 +102,12 @@ Hi, folks! It is my pleasure to have you visit my website. Here are the  materia
 ![Alt text](/untitled/Slide43.png)
 ![Alt text](/untitled/Slide44.png)
 ![Alt text](/untitled/Slide45.png)
+
+
+
+
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
